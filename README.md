@@ -12,7 +12,7 @@
   <img src="https://raw.githubusercontent.com/Electronic-Gangster/github-stats-transparent/output/generated/overview.svg" width=48%/>
 </a>
 <a href="https://github.com/Electronic-Gangster/github-stats">
- <img src="https://raw.githubusercontent.com/Electronic-Gangster/github-stats-transparent/output/generated/languages.svg" width=50% height=282px/>
+ <img src="https://raw.githubusercontent.com/Electronic-Gangster/github-stats-transparent/output/generated/languages.svg" width=50%/>
 </a>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Electronic-Gangster&theme=react-dark&bg_color=20232a&hide_border=true&line=CDD977&color=2DB400" width=98%/>

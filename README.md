@@ -9,12 +9,13 @@
 <!-- EG's profile -->
  
 <a href="https://github.com/Electronic-Gangster/github-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=Electronic-Gangster&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=4894e0&count_private=true" width=48% />
+  <img src="https://raw.githubusercontent.com/Electronic-Gangster/github-stats-transparent/output/generated/overview.svg" width=48%/>
+ 
 </a>
 <a href="https://github.com/Electronic-Gangster/github-stats">
  <img src="https://raw.githubusercontent.com/Electronic-Gangster/github-stats-transparent/output/generated/languages.svg" width=51%/>
 </a>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+<a href="https://github.com/Electronic-Gangster/github-readme-activity-graph">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Electronic-Gangster&theme=react-dark&bg_color=20232a&hide_border=true&line=5a5a5a&color=4894e0" width=98%/>
 </a>
 

@@ -9,7 +9,7 @@
 <!-- EG's profile -->
  
 <a href="https://github.com/Electronic-Gangster/github-stats">
-  <img src="https://raw.githubusercontent.com/Electronic-Gangster/github-stats-transparent/output/generated/overview.svg"/>
+  <img src="https://raw.githubusercontent.com/Electronic-Gangster/github-stats-transparent/output/generated/overview.svg" width=48%/>
  
 </a>
 <a href="https://github.com/Electronic-Gangster/github-stats">
